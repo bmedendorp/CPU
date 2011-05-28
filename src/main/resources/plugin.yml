@@ -1,0 +1,7 @@
+name: CPU
+main: org.bmedendorp.cpu.CPU
+version: 0.0.1
+author: bmedendorp
+description: CPU circuit library for RedstoneChips integrated circuits plugin.
+website: github.com/bmedendorp/CPU
+depend: [RedstoneChips]
